@@ -1,7 +1,7 @@
 
 CC       = g++
 OBJFILES = main.o RandomVariable.o
-TARGET   = randomvariable
+TARGET   = mcmc
 
 all: $(TARGET)
 
